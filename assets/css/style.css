@@ -826,7 +826,10 @@ body {
 		}
 	}
 	
-	
+.link:hover {
+	color: #002FD7;
+}	
+
 *, ::after, ::before {
     box-sizing: content-box;
 }
