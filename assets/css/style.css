@@ -720,7 +720,7 @@ body {
 
 
 .card {
-    height: 90%;
+    height: 533px;
     border: 0;
     border-radius: 0;
 	background: none;
@@ -730,27 +730,28 @@ body {
 	@media (max-width: 667px) {
 		.card {
 			width: 453px;
+			height: 447px;
 		}
 	}
 
 	@media (max-width: 564px) {
 		.card {
 			width: 353px;
-			height: 85%;
+			height: 354px;
 		}
 	}
 
 	@media (max-width: 437px) {
 		.card {
 			width: 320px;
-			height: 87%;
+			height: 302px;
 		}
 	}
 
 	@media (max-width: 406px) {
 		.card {
 			width: 290px;
-			height: 86%;
+			height: 290px;
 		}
 	}
 
