@@ -1175,12 +1175,9 @@ body {
 
 	@media (max-width: 1419px) {
 		.block-2 {
-			margin-left: 5px;
+			margin-left: 0px;
 			padding-top: 60px;
 		}
 	} 
 	
-.marquee {
-	color: #002FD7;
-	padding-bottom: 60px;
-}	
+
