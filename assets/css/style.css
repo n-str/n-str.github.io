@@ -235,7 +235,7 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-size: 28px;
-	background-color: #002FD7;
+	background-color: #002fd794;
 	line-height: 140%;
 }
 
@@ -720,7 +720,7 @@ body {
 
 
 .card {
-    height: 533px;
+/*     height: 533px; */
     border: 0;
     border-radius: 0;
 	background: none;
@@ -730,28 +730,28 @@ body {
 	@media (max-width: 667px) {
 		.card {
 			width: 453px;
-			height: 447px;
+/* 			height: 447px; */
 		}
 	}
 
 	@media (max-width: 564px) {
 		.card {
 			width: 353px;
-			height: 354px;
+/* 			height: 354px; */
 		}
 	}
 
 	@media (max-width: 437px) {
 		.card {
 			width: 320px;
-			height: 302px;
+/* 			height: 302px; */
 		}
 	}
 
 	@media (max-width: 406px) {
 		.card {
 			width: 290px;
-			height: 290px;
+/* 			height: 290px; */
 		}
 	}
 
@@ -803,7 +803,7 @@ body {
 
 
 .btn:hover {
-	background-color: #002FD7;
+	background-color: #002fd794;
 	color: #fefefe;
 	border-color: #002FD7;
 }
@@ -834,7 +834,7 @@ body {
 	}
 	
 .link:hover {
-	color: #002FD7;
+	color: #002fd794;
 }	
 
 *, ::after, ::before {
@@ -1186,5 +1186,29 @@ body {
 			padding-top: 60px;
 		}
 	} 
+
+.marquee {
+	color: #fefefe;
+	font-size: 22px;
+}
+
+	@media (max-width: 564px) {
+			.marquee {
+				font-size: 18px;
+			}
+	}
+
+	@media (max-width: 406px) {
+		.marquee {
+			font-size: 16px;
+		}
+	}
+
+#slide-3 {
+	margin-bottom: 30px;
+	background-color: #FF48ED;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 	
 
