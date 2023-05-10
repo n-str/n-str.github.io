@@ -780,10 +780,11 @@ body {
 		}
 	}
 
-	@media (max-width: 437px) {
+	@media (max-width: 440px) {
 		.btn {
 			margin-left: 220px;
 			font-size: 12px;
+			margin-top: -35px;
 		}
 	}
 
