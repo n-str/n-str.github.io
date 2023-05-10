@@ -790,6 +790,7 @@ body {
 	@media (max-width: 406px) {
 		.btn {
 			margin-left: 190px;
+			margin-top: -40px;
 		}
 	}
 
@@ -797,6 +798,7 @@ body {
 		.btn {
 			margin-left: 203px;
 			font-size: 10px;
+			margin-top: -29px;
 		}
 	}
 
