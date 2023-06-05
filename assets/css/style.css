@@ -688,7 +688,7 @@ body {
 	padding-left: 0px;
 	padding-right: 10px;
 	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-bottom: 0px;
 }  
 
 	@media (max-width: 667px) {
@@ -762,7 +762,7 @@ body {
 	background-color: #FF48ED;
 	color: #fefefe;
 	border-color: #FF48ED;
-	margin-top: -70px;
+	margin-top: -30px;
 	margin-left: 390px;
 	font-size: 16px;
 }
